@@ -1,0 +1,100 @@
+
+.global
+{
+	border-radius: 1.5em;
+	width: 1100px;
+	margin: 0 auto;
+	text-align: center;
+	/*borde de la pagina*/
+	box-shadow: #333 0px 0px 10px;
+	background-color: #FFF;
+	height: auto;
+	margin-top: -10px;
+
+}
+
+body {
+	
+	font-family: "Chalet",Helvetica, verdana;
+	font-size: 2em;
+}
+
+.cabecera{
+
+	border-radius: 1.5em 1.5em  0 0;
+	background: #212121 url("..recursos/img/fondo.jpg");  
+}
+
+.titulo1{
+	
+	text-align: center;
+	color: green;
+	color: #FA8258;
+	margin: 0.25em auto;
+	font-size: 500%;
+	text-align: left;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+}
+
+.titulo2{
+	text-align: center;
+	color: green;
+	color: red;
+	margin: 0.25em auto;
+	font-size: 40%;
+	text-align: left;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	margin-top: -30px;
+
+}
+
+.cuerpo1{
+	text-align: justify;
+	height: 800px;
+	color: green;
+}
+
+.contenedor {
+	/*margin: 0.5em auto;*/
+	width: 100px;
+	height: 420px;
+	margin-right: 500px;
+
+}
+
+.item1 {
+	
+	background: black;
+	border-radius: 1em;
+	height: auto;
+	margin-left: 25px;
+	margin-top: 15px;
+	width: 500px;
+
+
+}
+
+.item2 {
+	width: 450px;
+	height: 350px;
+	text-align: center;
+	text-align: justify;
+	margin-top: -20px;
+
+
+}
+
+.subtitle
+{
+	font-size: 22.4px;
+	font-weight: 200;
+}
+
+footer
+{
+	background-color: #666;
+	border-radius: 0 0 0.5em 0.5em;
+	text-align: center;
+	padding: 5px 15px;
+	color: #F1F1F1;
+}

@@ -1,0 +1,72 @@
+body
+{
+	margin: 0 auto;
+	background-color: #F1F1F1;
+	font-family: segoe  ui;
+}
+
+.global
+{
+	width: 1000px;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;
+	/*borde de la pagina*/
+	box-shadow: #333 0px 0px 10px;
+	background-color: #FFF;
+
+}
+nav
+{
+	background-color: #666;
+}
+nav ul li
+{
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	color: #f1f1f1;
+}
+nav ul li a
+{
+	color: #f1f1f1;
+	text-decoration: none;
+	padding: 10px 15px;
+	transition: all 0.5px linear;
+	-moz-transition: all 0.5s linear;
+	-o-transition: all 0.5s linear;
+	-webkit-transition: all 0.5s linear;
+}
+nav ul li a:hover
+{
+	box-shadow: #f1f1f1 0px 0px 10px;
+	background-color: #333;
+
+
+}
+aside
+{
+	float:left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+}
+section
+{
+	text-align: justify;
+	padding: 10px;
+}
+.subtitle
+{
+	font-size: 22.4px;
+	font-weight: 400;
+	position: static;
+	text-align: left;
+}
+footer
+{
+	background-color: #666;
+	text-align: center;
+	padding: 5px 15px;
+	color: #F1F1F1;
+}
