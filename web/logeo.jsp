@@ -23,7 +23,7 @@
     
       <div class="titulo1">
         <a href="logeo.html"><img src="recursos/img/2.png" width="260" height="180" /></a>
-        Ferretería "El Arca"
+        Ferreter&iacute;a "El Arca"
         <div class="titulo2">
         <center>Propietario: Daniel Rios San Miguel</center>
       </div>    
@@ -34,20 +34,20 @@
             <div class="contenedor1">
                 <div class="acceso">
                   <br><br>
-                  <p>Bienvenidos al sistema de la Ferretería "El Arca". Es un area restringida solo para uso del administrador y/o personal autorizado</p>
+                  <p>Bienvenidos al sistema de la Ferreter&iacute;a "El Arca". Es un area restringida solo para uso del administrador y/o personal autorizado</p>
                 </div>
             </div>
         
             <div class="container">
                 <form class="form-signin">
-                  <h2 class="form-signin-heading">Ingrese aquí</h2>
+                   <h2 class="form-signin-heading">Ingrese aqu&iacute;</h2>
                   <label for="inputEmail" class="sr-only">Usuario</label>
                   <input class="form-control" type="usuario" placeholder="Usuario">
                   <label for="inputPassword" class="sr-only">Password</label>
-                  <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+                  <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
                   <div class="checkbox">
                     <label>
-                      <input type="checkbox" value="remember-me"> Guardar contraseña
+                      <input type="checkbox" value="remember-me"> Guardar contrase&ntilde;a
                     </label>
                   </div>
                   <button class="btn btn-lg btn-primary btn-block" type="submit">Ingresar</button>
@@ -57,7 +57,7 @@
     </article>  
     <footer>
       <div class="pie">
-        &copy; Derechos reservador por el autor, Eliacer Fernandez Guevara
+        &copy; Derechos reservador por los autores: Eliacer, Mirian, Edgar y Daniel
       </div>
     </footer>  
 </div>
